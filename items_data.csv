@@ -1,0 +1,514 @@
+internal_name,id,dname,cost,qual,cd,lore,mc,hc
+blink,1,Blink Dagger,2250,component,15,The fabled dagger used by the fastest assassin ever to walk the lands.,False,False
+overwhelming_blink,600,Overwhelming Blink,6800,component,15,A horrifying dagger forged in the chaos maw and nigh untouchable by mortal hands.,False,False
+swift_blink,603,Swift Blink,6800,component,15,A cunning blade able to anticipate and enable its bearer's movements.,False,False
+arcane_blink,604,Arcane Blink,6800,component,9,A revitalizing tool to help bear the weight of arcane expenditure.,False,False
+javelin,7,Javelin,900,component,False,A rather typical spear that can sometimes pierce through an enemy's armor when used to attack.,False,False
+quelling_blade,11,Quelling Blade,100,component,4,"The axe of a fallen gnome, it allows you to effectively maneuver the forest.",False,False
+faerie_fire,237,Faerie Fire,65,consumable,5,The ethereal flames from the ever-burning ruins of Kindertree ignite across realities.,False,False
+infused_raindrop,265,Infused Raindrops,225,component,7,Elemental protection from magical assaults.,False,False
+wind_lace,244,Wind Lace,225,component,False,Hasten to battle on wind-touched heels.,False,False
+stout_shield,182,Stout Shield,100,component,False,One man's wine barrel bottom is another man's shield.,False,False
+moon_shard,247,Moon Shard,4000,consumable,False,Said to be a tear from the lunar goddess Selemene.,False,False
+branches,16,Iron Branch,50,consumable,False,"A seemingly ordinary branch, its ironlike qualities are bestowed upon the bearer.",False,False
+lifesteal,26,Morbid Mask,900,component,False,A mask that drains the energy of those caught in its gaze.,False,False
+voodoo_mask,473,Voodoo Mask,700,component,False,A mask tuned to sip the arcane bindings that pass between caster and foe.,False,False
+boots,29,Boots of Speed,500,component,False,"Fleet footwear, increasing movement.",False,False
+gem,30,Gem of True Sight,900,component,12,"Not one thrall creature of the depths,
+Nor spirit bound in drowning's keep,
+Nor Maelrawn the Tentacular,
+Shall rest till seas, gem comes to sleep.",False,False
+cheese,33,Cheese,1000,consumable,40,"Made from the milk of a long lost Furbolg vendor, it restores the vitality of those who taste it.",False,False
+magic_stick,34,Magic Stick,200,component,17,"A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.",False,False
+magic_wand,36,Magic Wand,450,common,15,"A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.",False,False
+ghost,37,Ghost Scepter,1500,component,22,"Imbues the wielder with a ghostly presence, allowing them to evade physical damage.",False,False
+clarity,38,Clarity,50,consumable,False,Clear water that enhances the ability to meditate.,False,False
+enchanted_mango,216,Enchanted Mango,65,consumable,False,The bittersweet flavors of Jidi Isle are irresistible to amphibians.,False,False
+famango,4204,Healing Lotus,0,consumable,5,,False,False
+great_famango,4205,Great Healing Lotus,0,consumable,5,,False,False
+greater_famango,4206,Greater Healing Lotus,0,consumable,5,,False,False
+blood_grenade,1123,Blood Grenade,50,consumable,10,Both the hunter and the hunted must pay the blood price.,False,75
+royale_with_cheese,1154,Block of Cheese,2,consumable,40,"First there was the Belt of Strength. Then there were the Boots of Travel. Now, at long last, the Block of Cheese.",False,False
+flask,39,Healing Salve,100,consumable,False,A magical salve that can quickly mend even the deepest of wounds.,False,False
+dust,40,Dust of Appearance,80,consumable,30,"One may hide visage, but never volume.",False,False
+bottle,41,Bottle,675,common,False,"An old bottle that survived the ages, the contents placed inside become enchanted.",False,False
+ward_observer,42,Observer Ward,0,consumable,1,"A form of half-sentient plant, often cultivated by apprentice wizards.",False,False
+ward_sentry,43,Sentry Ward,50,consumable,1,A form of plant originally grown in the garden of a fearful king.,False,False
+ward_dispenser,218,Observer and Sentry Wards,50,consumable;laning,False,Advancements in stacking efficiency have made wards easier to carry than ever.,False,False
+tango,44,Tango,90,consumable,False,Forage to survive on the battlefield.,False,False
+tango_single,241,Tango (Shared),30,consumable,False,Om nom nom.,False,False
+tpscroll,46,Town Portal Scroll,100,consumable,80,What a hero truly needs.,75,False
+travel_boots,48,Boots of Travel,2500,common,False,Winged boots that grant omnipresence.,False,False
+travel_boots_2,220,Boots of Travel 2,4500,common,False,Winged boots that grant omnipresence.,False,False
+phase_boots,50,Phase Boots,1500,common,8,Boots that allow the wearer to travel between the ether.,False,False
+power_treads,63,Power Treads,1400,common,False,A pair of tough-skinned boots that change to meet the demands of the wearer.,False,False
+phylactery,1107,Phylactery,2500,common,9,An amulet overflowing with powerful magics.,False,False
+angels_demise,1808,Khanda,5600,common,9,A blade sharp enough to slice through magic itself.,False,False
+hand_of_midas,65,Hand of Midas,2200,common,False,"Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets.",False,False
+witch_blade,534,Witch Blade,2775,common,9,A spiteful blade inadvertently possessed by the soul of its incautious creator.,False,False
+poor_mans_shield,71,Poor Man's Shield,0,common,False,A busted old shield that seems to block more than it should.,False,False
+mekansm,79,Mekansm,1775,rare,50,A glowing jewel formed out of assorted parts that somehow fit together perfectly.,100,False
+vladmir,81,Vladmir's Offering,2200,rare,False,An eerie mask that is haunted with the malice of a fallen vampire.,False,False
+buckler,86,Buckler,425,rare,False,"A powerful shield that imbues the bearer with the strength of heroes past, it is capable of protecting entire armies in battle.",False,False
+ring_of_basilius,88,Ring of Basilius,425,rare,False,Ring given as a reward to the greatest mages.,False,False
+holy_locket,269,Holy Locket,2250,rare,False,A prized relic long thought lost forever in a failed crusade.,False,False
+pipe,90,Pipe of Insight,3725,rare,60,"A powerful artifact of mysterious origin, it creates barriers against magical forces.",150,False
+urn_of_shadows,92,Urn of Shadows,825,rare,10,Contains the ashes of powerful demons.,False,False
+headdress,94,Headdress,425,rare,False,Creates a soothing aura that restores allies in battle.,False,False
+sheepstick,96,Scythe of Vyse,5200,rare,20,"The most guarded relic among the cult of Vyse, it is the most coveted weapon among magi.",250,False
+orchid,98,Orchid Malevolence,3275,rare,18,A garnet rod constructed from the essence of a fire demon.,125,False
+bloodthorn,250,Bloodthorn,6625,epic,15,A reviled blade that bites deeper with each wriggle of its victim's final throes.,125,False
+echo_sabre,252,Echo Sabre,2700,artifact,5,A deceptively swift blade imbued with resonant magic.,False,False
+cyclone,100,Eul's Scepter of Divinity,2600,rare,23,"A mysterious scepter passed down through the ages, its disruptive winds can be used for good or evil.",175,False
+wind_waker,610,Wind Waker,6800,rare,16,Proof enough to some that unseen forces manipulate the happenings of the material plane.,175,False
+aether_lens,232,Aether Lens,2275,rare,False,"Polished with the incantation of his final breath, the gift of a dying mage to his sickly son.",False,False
+force_staff,102,Force Staff,2200,rare,19,"Allows you to manipulate others, for good or evil.",150,False
+hurricane_pike,263,Hurricane Pike,4450,epic,19,A legendary pike once held as royal sigil of the ancient wyvern riders.,150,False
+dagon,104,Dagon,2850,rare,27,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",120,False
+dagon_2,201,Dagon,4000,rare,27,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",120,False
+dagon_3,202,Dagon,5150,rare,27,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",120,False
+dagon_4,203,Dagon,6300,rare,27,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",120,False
+dagon_5,204,Dagon,7450,rare,27,"A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",120,False
+necronomicon,106,Necronomicon,2050,rare,80,"Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",150,False
+necronomicon_2,193,Necronomicon,3300,rare,80,"Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",150,False
+necronomicon_3,194,Necronomicon,4550,rare,80,"Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",150,False
+ultimate_scepter,108,Aghanim's Scepter,4200,rare,False,The scepter of a wizard with demigod-like powers.,False,False
+ultimate_scepter_2,271,Aghanim's Blessing,5800,rare,False,The scepter of a wizard with demigod-like powers.,False,False
+ultimate_scepter_roshan,727,Aghanim's Blessing - Roshan,5800,rare,False,The scepter of a wizard with demigod-like powers.,False,False
+aghanims_shard,609,Aghanim's Shard,1400,rare,False,"With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself.",False,False
+aghanims_shard_roshan,725,Aghanim's Shard - Consumable,1400,rare,False,"With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself.",False,False
+refresher,110,Refresher Orb,5000,rare,180,A powerful artifact created for wizards.,350,False
+assault,112,Assault Cuirass,5125,epic,False,"Forged in the depths of the nether reaches, this hellish mail provides an army with increased armor and attack speed.",False,False
+black_king_bar,116,Black King Bar,4050,epic,95,A powerful staff imbued with the strength of giants.,50,False
+aegis,117,Aegis of the Immortal,0,artifact,False,The Immortal was said to own a shield that protected him from death itself.,False,False
+shivas_guard,119,Shiva's Guard,5175,epic,27,"Said to have belonged to a goddess, today it retains much of its former power.",75,False
+bloodstone,121,Bloodstone,4400,epic,30,"The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",False,False
+sphere,123,Linken's Sphere,4800,epic,14,This magical sphere once protected one of the most famous heroes in history.,False,False
+lotus_orb,226,Lotus Orb,3850,epic,15,The jewel at its center still reflects a pale image of its creator.,175,False
+meteor_hammer,223,Meteor Hammer,2850,epic,24,,75,False
+nullifier,225,Nullifier,4375,epic,10,,False,False
+aeon_disk,256,Aeon Disk,3000,epic,105,,False,False
+trident,369,Trident,6301,,False,,False,False
+refresher_shard,260,Refresher Shard,1000,consumable,180,,200,False
+spirit_vessel,267,Spirit Vessel,2725,rare,10,,False,False
+vanguard,125,Vanguard,1700,epic,False,A powerful shield that defends its wielder from even the most vicious of attacks.,False,False
+crimson_guard,242,Crimson Guard,3725,epic,40,A cuirass originally built to protect against the dreaded Year Beast.,75,False
+blade_mail,127,Blade Mail,2300,epic,25,"A razor-sharp coat of mail, it is the choice of selfless martyrs in combat.",25,False
+hood_of_defiance,131,Hood of Defiance,0,epic,60,"A furred, magic resistant headpiece that is feared by wizards.",50,False
+eternal_shroud,692,Eternal Shroud,3700,epic,False,A pristine hood that feeds upon strife to empower its owner.,False,False
+rapier,133,Divine Rapier,5600,epic,6,"So powerful, it cannot have a single owner.",False,False
+monkey_king_bar,135,Monkey King Bar,4700,epic,False,A powerful staff used by a master warrior.,False,False
+radiance,137,Radiance,4700,epic,False,A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.,False,False
+greater_crit,141,Daedalus,5100,epic,False,A weapon of incredible power that is difficult for even the strongest of warriors to control.,False,False
+basher,143,Skull Basher,2875,epic,2,"A feared weapon in the right hands, this maul's ability to shatter the defenses of its opponents should not be underestimated.",False,False
+bfury,145,Battle Fury,3900,epic,4,The bearer of this mighty axe gains the ability to cut down swaths of enemies at once.,False,False
+manta,147,Manta Style,4650,epic,34,An axe made of reflective materials that causes confusion amongst enemy ranks.,125,False
+lesser_crit,149,Crystalys,2000,epic,False,"A blade forged from rare crystals, it seeks weak points in enemy armor.",False,False
+dragon_lance,236,Dragon Lance,1900,artifact,False,The forward charge of the wyvern host grants no quarter.,False,False
+armlet,151,Armlet of Mordiggian,2500,epic,False,"Weapon of choice among brutes, the bearer sacrifices his life energy to gain immense strength and power.",False,False
+invis_sword,152,Shadow Blade,3350,epic,25,"The blade of a fallen king, it allows you to move unseen and strike from the shadows.",75,False
+silver_edge,249,Silver Edge,5800,epic,20,"Once used to slay an unjust king, only to have the kingdom erupt into civil war in the aftermath.",75,False
+satanic,156,Satanic,5050,artifact,30,Immense power at the cost of your soul.,False,False
+mjollnir,158,Mjollnir,5500,artifact,35,"Thor's magical hammer, made for him by the dwarves Brok and Eitri.",50,False
+skadi,160,Eye of Skadi,5900,artifact,False,"Extremely rare artifact, guarded by the azure dragons.",False,False
+helm_of_the_dominator,164,Helm of the Dominator,2550,artifact,45,The powerful headpiece of a dead necromancer.,False,False
+helm_of_the_overlord,635,Helm of the Overlord,5650,artifact,45,The powerful headpiece of an undead necromancer.,False,False
+maelstrom,166,Maelstrom,2950,artifact,False,"A hammer forged for the gods themselves, Maelstrom allows its user to harness the power of lightning.",False,False
+gungir,1466,Gleipnir,4550,artifact,18,Bindings forged by impossible means to leash an ancient evil.,150,False
+desolator,168,Desolator,3500,artifact,False,"A wicked weapon, used in torturing political criminals.",False,False
+mask_of_madness,172,Mask of Madness,1900,artifact,16,"Once this mask is worn, its bearer becomes an uncontrollable aggressive force.",25,False
+diffusal_blade,174,Diffusal Blade,2500,artifact,15,An enchanted blade that allows the user to cut straight into the enemy's soul.,25,False
+disperser,1097,Disperser,6100,artifact,15,Once entrusted to an Apostle General of the Rumusque Faithful's expeditionary force.,75,False
+ethereal_blade,176,Ethereal Blade,5375,epic,22,"A flickering blade of a ghastly nature, it is capable of dealing damage in both magical and physical planes.",100,False
+soul_ring,178,Soul Ring,805,common,25,A ring that feeds on the souls of those who wear it.,False,170
+arcane_boots,180,Arcane Boots,1400,rare,55,Magi equipped with these boots are valued in battle.,False,False
+octarine_core,235,Octarine Core,4800,rare,False,At the core of spellcraft are spectrums only the very gifted can sense.,False,False
+orb_of_venom,181,Orb of Venom,350,component,9,Envenoms your veapon with the venom of a venomous viper.,False,False
+blight_stone,240,Orb of Blight,300,component,False,An unnerving stone unearthed beneath the Fields of Endless Carnage.,False,False
+orb_of_corrosion,569,Orb of Corrosion,1050,rare,False,"Seepage from the wounds of a warrior deity, sealed in an arcanist's orb following a campaign of vicious slaughter.",False,False
+orb_of_frost,1575,Orb of Frost,300,rare,False,"Slowly growing since the universe began, it will envelop everything when it ends.",False,False
+mage_slayer,598,Mage Slayer,2800,rare,False,Forged by a secret order in The Third Age of Praxa'cia to fell the False King.,False,False
+ancient_janggo,185,Drum of Endurance,1625,rare,45,A relic that enchants the bodies of those around it for swifter movement in times of crisis.,False,False
+boots_of_bearing,931,Boots of Bearing,4225,rare,30,Resplendent footwear fashioned for the ancient herald that first dared spread the glory of Stonehall beyond the original borders of its nascent claim.,False,False
+medallion_of_courage,187,Medallion of Courage,1025,rare,16,The bearer has no fear of combat.,False,False
+solar_crest,229,Solar Crest,2575,rare,16,A talisman forged to honor the daytime sky.,100,False
+pavise,1128,Pavise,1400,rare,16,Devised by a wizard who made one too many enemies.,60,False
+smoke_of_deceit,188,Smoke of Deceit,50,consumable,1,The charlatan wizard Myrddin's only true contribution to the arcane arts.,False,False
+tome_of_knowledge,257,Tome of Knowledge,75,consumable,False,That which raises beast to man and man to god.,False,False
+veil_of_discord,190,Veil of Discord,1725,rare,16,The headwear of corrupt magi.,50,False
+revenants_brooch,911,Revenant's Brooch,3300,rare,False,The cursed brooch of a fallen guardian who stalks forever between the veil of life and death.,False,False
+devastator,1806,Parasma,5975,rare,7,Warning: There is no antidote if picked up by the wrong end.,False,False
+guardian_greaves,231,Guardian Greaves,5050,rare,45,One of many holy instruments constructed to honor the Omniscience.,False,False
+rod_of_atos,206,Rod of Atos,2250,rare,18,"Atos, the Lord of Blight, has his essence stored in this deceptively simple wand.",100,False
+iron_talon,239,Iron Talon,0,common,15,A simple but effective weapon devised to quell a great Hellbear uprising.,False,False
+abyssal_blade,208,Abyssal Blade,6250,epic,35,"The lost blade of the Commander of the Abyss, this edge cuts into an enemy's soul.",75,False
+heavens_halberd,210,Heaven's Halberd,2600,artifact,18,"This halberd moves with the speed of a smaller weapon, allowing the bearer to win duels that a heavy edge would not.",25,False
+ring_of_aquila,212,Ring of Aquila,0,,False,The ring of the fallen Warlord Aquila continues to support armies in battle.,False,False
+tranquil_boots,214,Tranquil Boots,900,rare,13,"While they increase the longevity of the wearer, this boot is not particularly reliable.",False,False
+shadow_amulet,215,Shadow Amulet,1000,,18,A small talisman that clouds the senses of one's enemies when held perfectly still.,False,False
+glimmer_cape,254,Glimmer Cape,2150,rare,15,The stolen cape of a master illusionist.,125,False
+grove_bow,288,Grove Bow,0,,False,A gift from the moon goddess to one of her prized disciples many memories ago.,False,False
+quickening_charm,289,Quickening Charm,0,,False,An evergreen amulet of druidic origins.,False,False
+force_boots,291,Force Boots,0,,8,Elusive marvels never successfully studied for proper classification in the archives.,75,False
+desolator_2,292,Stygian Desolator,0,,False,The original demonic favorite that served as basis for the beloved mortal design.,False,False
+phoenix_ash,293,Phoenix Ash,0,,False,,False,False
+seer_stone,294,Seer Stone,0,,60,The curious creation of a wizard who professed to hail from another time.,False,False
+elixer,302,Elixir,0,,False,,False,False
+force_field,829,Arcanist's Armor,0,,35,An exquisite piece commissioned by a paranoid monarch who choked on a piece of fruit long before the item saw its intended use.,False,False
+black_powder_bag,834,Blast Rig,0,,20,"One of a set of custom rigs once worn by infamous road agents in the Outlands, its siblings have been lost to misfires and the various tides of time.",False,False
+craggy_coat,298,Craggy Coat,0,,12,,False,False
+greater_faerie_fire,299,Greater Faerie Fire,0,consumable,10,,False,False
+timeless_relic,300,Timeless Relic,0,,False,An unmarred discovery from the excavated ruins of an ancient wizard's academy.,False,False
+mirror_shield,301,Mirror Shield,0,,False,The shield that long ago robbed the old one of his first memories.,False,False
+ironwood_tree,304,Ironwood Tree,0,,15,Precious. And hearty as a weed.,False,False
+mango_tree,328,Mango Tree,0,consumable,False,,False,False
+royal_jelly,305,Royal Jelly,0,consumable,False,"To those who harvest olgru jelly, success serves more than mere profit--it's often the means to survival--for only the jelly itself can cure the ravages that follow a sting from the vigilant denizens of the giant hives.",False,False
+pupils_gift,306,Pupil's Gift,0,,False,"An astounding plate of ever-replenishing, fortifying fruit.",False,False
+tome_of_aghanim,307,Tome of Aghanim,0,,False,,False,False
+repair_kit,308,Repair Kit,0,consumable,60,,False,False
+mind_breaker,309,Mind Breaker,0,,16,A bewitching blade of indeterminate form capable of piercing the psyche of even the most willful foe.,False,False
+third_eye,310,Third Eye,0,,False,,False,False
+spell_prism,311,Spell Prism,0,,False,Even the slightest flaw in the components of a spell prism can result in the death of its user.,False,False
+princes_knife,325,Prince's Knife,0,,10,,False,False
+witless_shako,330,Witless Shako,0,,False,,False,False
+imp_claw,334,Imp Claw,0,,5,"Though their tasks are largely thankless, demon hunters can often turn a profit bartering parts in Weeping Rose.",False,False
+flicker,335,Flicker,0,,5,The technically-true-to-his-word 'teleportation device' crafted by a notorious fae trickster.,False,False
+spy_gadget,336,Telescope,0,,False,A handy tool that manages to make close what once was far.,False,False
+spider_legs,326,Spider Legs,0,,20,A horrifying yet useful mixture of necromancy and artificing.,False,False
+helm_of_the_undying,327,Helm of the Undying,0,,100,The price for wearing it is paid in the afterlife.,False,False
+vambrace,331,Vambrace,0,common,False,"The coveted treasure that divided the heirs of Queen Raiya upon her death, resulting in the eventual downfall of her kingdom.",False,False
+fusion_rune,313,Fusion Rune,0,,120,,False,False
+ocean_heart,354,Ocean Heart,0,,False,A charm blessed by the Council of the Brine.,False,False
+spark_of_courage,1124,Spark of Courage,0,,False,A common battle charm in the armies that served the Children of Light.,False,False
+trusty_shovel,356,Trusty Shovel,0,,70,"Former plaything of a young deity, received as a gift from his uncle.",False,False
+dragon_scale,358,Dragon Scale,0,,False,The remains of a dragon always outvalue the wealth of even the most prodigious hoard.,False,False
+essence_ring,359,Essence Ring,0,,25,An ancient bauble blessed by the breath of Verodicia.,160,False
+clumsy_net,360,Clumsy Net,0,,25,,False,False
+enchanted_quiver,361,Enchanted Quiver,0,,4,A graceful gift blessed by the goddess of the hunt.,False,False
+ninja_gear,362,Ninja Gear,0,,60,Valuable equipment recovered by a young explorer sifting through the flotsam and detritus drifting in the void.,100,False
+illusionsts_cape,363,Illusionist's Cape,0,,30,A dashing cape whose creator insists on calling 'Cloak of Apparition' as opposed to his assistant's 'Illusion' drivel.,False,False
+havoc_hammer,364,Havoc Hammer,0,,10,,False,False
+panic_button,365,Magic Lamp,0,,75,,False,False
+ballista,367,Ballista,0,,False,A simple design much improved by a master smith's loving hand.,False,False
+woodland_striders,368,Woodland Striders,0,,20,,False,False
+demonicon,370,Book of the Dead,0,,80,A record of the final reckoning. With one page torn out.,False,False
+fallen_sky,371,Fallen Sky,0,,25,One of the few surviving creations of the acolytes of the Wyrmforge.,False,False
+pirate_hat,372,Pirate Hat,0,,False,A salty skulltopper cursed with endless good fortune.,False,False
+ex_machina,374,Ex Machina,0,,60,"The remains of an ancient universe, preserved within a single sphere.",350,False
+minotaur_horn,377,Minotaur Horn,0,,40,The trophy from a mighty beast ambushed and slain in the recesses of its own home.,False,False
+orb_of_destruction,378,Orb of Destruction,0,,False,"An ingot of chaos suspended in wizard's ether, housed within an arcanist's orb.",False,False
+the_leveller,379,The Leveller,0,,False,A demonic blade that struck the final blow to crack the gates of the Sanctum of Solanas.,False,False
+arcane_ring,349,Arcane Ring,0,,60,Once a prized heirloom of a minor lord's house.,False,False
+chipped_vest,565,Chipped Vest,0,,False,"It doesn't look like much, but it's oddly comfy.",False,False
+cloak_of_flames,574,Cloak of Flames,0,,False,A very fine cloak that plays host to an overly-protective living flame.,False,False
+trickster_cloak,571,Trickster Cloak,0,,25,A fantastic garment immediately misplaced by its creator upon completion.,False,False
+possessed_mask,577,Possessed Mask,0,,False,"Even when discarded with specific purpose and great care, this frightening mask always finds its way onto the face of a new owner.",False,False
+penta_edged_sword,638,Penta-Edged Sword,0,,False,"The final, twisted work of a severely pious blacksmith, completed immediately before the taking of his own life. ",False,False
+bullwhip,680,Bullwhip,0,,11,Once the favored lash of an infamous broker of pit fighters and other live trade.,False,False
+psychic_headband,675,Psychic Headband,0,,15,"A failed experiment in finer telekinetic control, still fit for other ends.",False,False
+ceremonial_robe,676,Ceremonial Robe,0,,False,One of many items lost in the looting of Zelenwyr's sacred reliquary.,False,False
+quicksilver_amulet,686,Quicksilver Amulet,0,,False,An enchanted talisman brimming with a mysterious substance.,False,False
+book_of_shadows,677,Book of Shadows,0,,8,An impossible tome filled with unreadable prose of unknowable thoughts.,False,False
+giants_ring,678,Giant's Ring,0,,False,Prized procurement of an otherwise unremarkable ruler of Elze who abdicated his position and vanished.,False,False
+vengeances_shadow,679,Shadow of Vengeance,0,,False,,False,False
+stormcrafter,585,Stormcrafter,0,,3,The accidental byproduct of a spell conjured to entrap a lesser god.,False,False
+ascetic_cap,825,Ascetic's Cap,0,,25,An austere hat thought to be of Turstarkuri origin.,False,False
+misericorde,828,Brigand's Blade,0,,False,An infamous assassin's blade stolen and smuggled out of White Spire after its owner's mysterious demise.,False,False
+heavy_blade,837,Witchbane,0,,20,"With ready access to test subjects, untold cruelties have been dreamed up and loosed upon the world from within the walls of the Tyler Estate.",75,False
+unstable_wand,838,Pig Pole,0,,20,"A makeshift charm misplaced by a peace-loving, addlebrained enchanter.",False,False
+pogo_stick,840,Tumbler's Toy,0,,15,An antique plaything found in the ruins of an Ozenja circus bazaar.,False,False
+paintball,835,Fae Grenade,0,,20,Those marked for death by the fae shine brightly to all manner of creatures in the shadow realm.,25,False
+seeds_of_serenity,945,Seeds of Serenity,0,,35,An evergreen sprout treasured by the woodkin and highly coveted by interlopers and their like.,False,False
+lance_of_pursuit,946,Lance of Pursuit,0,,False,The gleaming weapon of a tarnished knight haunted by his duties to an unworthy king.,False,False
+occult_bracelet,947,Occult Bracelet,0,,False,A band that bears effigy of the dark goddess Eloshar's unsleeping eye.,False,False
+ogre_seal_totem,949,Ogre Seal Totem,0,,40,,25,False
+harpoon,939,Harpoon,4700,,19,A perfect solution for the flight of foes.,50,False
+defiant_shell,950,Defiant Shell,0,,False,,False,False
+specialists_array,1076,Specialist's Array,0,,8,An impressive kit of trigger enhancements born in an aging assassin's idle mind.,False,False
+dagger_of_ristul,1077,Dagger of Ristul,0,,30,A sinister shiv that grants favor to those willing to stain its blade with a sacrifice of their own blood.,False,False
+ofrenda,4300,Beloved Memory,0,,3,Take joy in remembering those beloved who've passed now beyond the veil.,False,False
+ofrenda_shovel,4301,Scrying Shovel,0,,8,"You don't know where it came from, but it knows where you need to go. All you need to do is dig.",False,False
+ofrenda_pledge,4302,Forebearer's Fortune,0,,False,This item seems unstable. Like it might just disappear.,False,False
+muertas_gun,1090,Mercy & Grace,0,,10,"One to deliver the body, the other to claim the soul.",160,False
+tier1_token,2091,Tier 1 Token,0,,False,,False,False
+tier2_token,2092,Tier 2 Token,0,,False,,False,False
+tier3_token,2093,Tier 3 Token,0,,False,,False,False
+tier4_token,2094,Tier 4 Token,0,,False,,False,False
+tier5_token,2095,Tier 5 Token,0,,False,,False,False
+vindicators_axe,2096,Vindicator's Axe,0,,False,,False,False
+duelist_gloves,2097,Duelist Gloves,0,,False,,False,False
+ancient_guardian,1156,Ancient Guardian,0,,False,,False,False
+safety_bubble,1157,Safety Bubble,0,,False,,False,False
+whisper_of_the_dread,1158,Whisper of the Dread,0,,False,The air that passes through this amulet makes a dreadful sound.,False,False
+nemesis_curse,1159,Nemesis Curse,0,,False,,False,False
+avianas_feather,1160,Aviana's Feather,0,,False,,False,False
+unwavering_condition,1161,Unwavering Condition,0,,False,,False,False
+dandelion_amulet,2190,Dandelion Amulet,0,,12,,False,False
+martyrs_plate,2192,Martyr's Plate,0,,40,,False,False
+gossamer_cape,2193,Gossamer Cape,0,,6,,False,False
+rattlecage,1168,Rattlecage,0,,False,,False,False
+doubloon,1803,Doubloon,0,,5,,False,False
+roshans_banner,1804,Roshan's Banner,0,artifact,1,,False,False
+black_grimoire,1440,Black Grimoire,0,,420,,False,False
+grisgris,1441,Gris-Gris,0,,False,,False,False
+unrelenting_eye,1598,Unrelenting Eye,0,,False,A serpent's eye the size of a melon (and just as moist).,False,False
+mana_draught,1599,Mana Draught,0,,60,A refreshing drink best shared with friends.,False,False
+rippers_lash,1600,Ripper's Lash,0,,25,The Fae horticulturists of Revtel are known to push the boundaries of both cross pollination and safety.,False,False
+crippling_crossbow,1601,Crippling Crossbow,0,,12,The ever-weeping woodgrain of this crossbow coats every bolt in a potent but short-lived narcotic sap.,50,False
+gale_guard,1602,Gale Guard,0,,30,"If one truly listens, they can always rely upon the wind to make its will known.",False,False
+gunpowder_gauntlets,1603,Gunpowder Gauntlet,0,,6,A 'harmless' prank that went entirely too far.,False,False
+searing_signet,1604,Searing Signet,0,,False,"To torture a magic user, one must devise means far beyond the mundane.",False,False
+serrated_shiv,1605,Serrated Shiv,0,,1,"Too dangerous for taskwork, this blade's only purpose is vile murder.",False,False
+polliwog_charm,1606,Pollywog Charm,0,,45,A tiny trinket that wriggles when wet.,False,False
+magnifying_monocle,1607,Magnifying Monocle,0,,False,Deadly refinement.,False,False
+pyrrhic_cloak,1608,Pyrrhic Cloak,0,,40,There are generals that care far less about the survival of their troops than the destruction of their enemies.,False,False
+madstone_bundle,1609,Madstone Bundle,0,consumable,False,,False,False
+crystal_raindrop,1636,Crystal Raindrop,0,,70,,False,False
+kobold_cup,1637,Kobold Cup,0,,40,The Kobold King will sip when he damn well pleases.,40,False
+dormant_curio,1638,Dormant Curio,0,,False,"Everyone has an idea, but no one has a clue.",False,False
+sisters_shroud,1639,Sister's Shroud,0,,False,A pall that draped the sarcophagus of the First Sister.,False,False
+jidi_pollen_bag,1640,Jidi Pollen Bag,0,,45,Very dangerous. Very difficult to obtain more.,False,False
+outworld_staff,1641,Outworld Staff,0,,30,Proof that the lone sentinel was not always so.,65,False
+dezun_bloodrite,1642,Dezun Bloodrite,0,,False,"The gateway to a lost lineage of power, unlocked only with blood.",False,False
+giant_maul,1643,Giant's Maul,0,,15,Crude but smashingly effective.,False,False
+divine_regalia,1644,Divine Regalia,0,,False,"So magnificent, it cannot abide failure.",False,False
+divine_regalia_broken,1645,Disgraced Regalia,0,,False,It cannot abide failure.,False,False
+circlet_of_the_flayed_twins,1646,Circlet of the Flayed Twins,0,,False,,False,False
+furion_gold_bag,1652,Bag of Gold,0,,False,,False,False
+recipe_arcane_blink,606,Arcane Blink Recipe,1750,,False,,False,False
+recipe_swift_blink,607,Swift Blink Recipe,1750,,False,,False,False
+recipe_overwhelming_blink,608,Overwhelming Blink Recipe,1750,,False,,False,False
+blades_of_attack,2,Blades of Attack,450,component,False,"The damage of these small, concealable blades should not be underestimated.",False,False
+broadsword,3,Broadsword,1000,component,False,"The classic weapon of choice for knights, this blade is sturdy and reliable for slaying enemies.",False,False
+chainmail,4,Chainmail,550,component,False,A medium weave of metal chains.,False,False
+claymore,5,Claymore,1350,component,False,"A sword that can cut through armor, it's a commonly chosen first weapon for budding swordsmen.",False,False
+helm_of_iron_will,6,Helm of Iron Will,975,component,False,The helmet of a legendary warrior who fell in battle.,False,False
+mithril_hammer,8,Mithril Hammer,1600,component,False,A hammer forged of pure mithril.,False,False
+platemail,9,Platemail,1400,secret_shop,False,Thick metal plates that protect the entire upper body. Avoid dropping on feet.,False,False
+quarterstaff,10,Quarterstaff,875,component,False,A basic staff that allows you to strike quickly.,False,False
+ring_of_protection,12,Ring of Protection,175,component,False,A glimmering ring that defends its bearer.,False,False
+gauntlets,13,Gauntlets of Strength,140,component,False,Studded leather gloves that add brute strength.,False,False
+slippers,14,Slippers of Agility,140,component,False,Light boots made from spider skin that tingles your senses.,False,False
+mantle,15,Mantle of Intelligence,140,component,False,A beautiful sapphire mantle worn by generations of queens.,False,False
+belt_of_strength,17,Belt of Strength,450,component,False,A valued accessory for improving vitality.,False,False
+boots_of_elves,18,Band of Elvenskin,450,component,False,A tensile fabric often used for its light weight and ease of movement.,False,False
+robe,19,Robe of the Magi,450,component,False,"This robe corrupts the soul of the user, but provides wisdom in return.",False,False
+circlet,20,Circlet,155,component,False,An elegant circlet designed for human princesses.,False,False
+crown,261,Crown,450,component,False,A stately crown created to ensure a well-meaning but ungifted heir could fend off usurpers and govern with a strong hand.,False,False
+diadem,1122,Diadem,1000,component,False,A crown that can never be removed.,False,False
+ogre_axe,21,Ogre Axe,1000,component,False,You grow stronger just by holding it.,False,False
+blade_of_alacrity,22,Blade of Alacrity,1000,component,False,A long blade imbued with time magic.,False,False
+staff_of_wizardry,23,Staff of Wizardry,1000,component,False,A staff of magical powers passed down from the eldest mages.,False,False
+ultimate_orb,24,Ultimate Orb,2800,secret_shop,False,A mystical orb containing the essence of life.,False,False
+gloves,25,Gloves of Haste,450,component,False,A pair of magical gloves that seems to render weapons weightless.,False,False
+blitz_knuckles,485,Blitz Knuckles,1000,component,False,An underground arcanist's update of a back-alley classic.,False,False
+ring_of_regen,27,Ring of Regen,175,component,False,This ring is considered a good luck charm among the Gnomes.,False,False
+sobi_mask,28,Sage's Mask,175,component,False,A mask commonly used by mages and warlocks for various rituals.,False,False
+cloak,31,Cloak,800,component,False,A cloak made of a magical material that works to dispel any magic cast on it.,False,False
+talisman_of_evasion,32,Talisman of Evasion,1300,secret_shop,False,A necklace that allows you to anticipate enemy attacks.,False,False
+recipe_magic_wand,35,Magic Wand Recipe,150,,False,,False,False
+courier,45,Animal Courier,50,consumable,False,,False,False
+flying_courier,286,Flying Courier,100,consumable,False,,False,False
+recipe_travel_boots,47,Boots of Travel Recipe,2000,,False,,False,False
+demon_edge,51,Demon Edge,2200,secret_shop,False,"One of the oldest weapons forged by the Demon-Smith Abzidian, it killed its maker when he tested its edge.",False,False
+eagle,52,Eaglesong,2800,secret_shop,False,"Capturing the majestic call of an eagle, this mystical horn brings limitless dexterity to those who hear it.",False,False
+reaver,53,Reaver,2800,secret_shop,False,A massive axe capable of tearing whole mountains down.,False,False
+relic,54,Sacred Relic,3400,secret_shop,False,An ancient weapon that often turns the tides of war.,False,False
+hyperstone,55,Hyperstone,2000,secret_shop,False,"A mystical, carved stone that boosts the fervor of the holder.",False,False
+ring_of_health,56,Ring of Health,700,component,False,A shiny ring found beneath a fat halfling's corpse.,False,False
+ring_of_tarrasque,279,Ring of Tarrasque,1800,component,False,An ageless ring forged with an otherwise simple blood magic amplified by the presumed source of its key component.,False,False
+void_stone,57,Void Stone,700,component,False,"Jewelry that was once used to channel nether realm magic, this ring pulses with energy.",False,False
+tiara_of_selemene,1802,Tiara of Selemene,1800,component,False,A symbol of favor bestowed upon the high priestess of Selemene.,False,False
+mystic_staff,58,Mystic Staff,2800,secret_shop,False,Enigmatic staff made of only the most expensive crystals.,False,False
+energy_booster,59,Energy Booster,800,secret_shop,False,This lapis gemstone is commonly added to the collection of wizards seeking to improve their presence in combat.,False,False
+point_booster,60,Point Booster,1200,secret_shop,False,A perfectly formed amethyst that nourishes body and mind when held.,False,False
+vitality_booster,61,Vitality Booster,1000,secret_shop,False,A ruby gemstone that has been passed down through generations of warrior kin.,False,False
+fluffy_hat,593,Fluffy Hat,250,secret_shop,False,Fine and functional foppery for the fashion-forward fighter.,False,False
+recipe_samurai_tabi,1098,,1100,,False,,False,False
+samurai_tabi,1091,,5250,common,False,,False,False
+recipe_hermes_sandals,1092,,500,,False,,False,False
+hermes_sandals,1093,,4800,common,10,,False,False
+recipe_witches_switch,1099,,625,,False,,False,False
+witches_switch,1100,,1900,common,1,,False,False
+recipe_lunar_crest,1094,,250,,False,,False,False
+lunar_crest,1095,Lunar Crest,2275,common,30,,False,False
+recipe_phylactery,1106,Phylactery Recipe,300,,False,,False,False
+recipe_angels_demise,1807,Khanda Recipe,1300,,False,,False,False
+grandmasters_glaive,655,,5000,common,False,,False,False
+recipe_hand_of_midas,64,Hand of Midas Recipe,1750,,False,,False,False
+aetherial_halo,1164,,5900,common,24,,100,False
+oblivion_staff,67,Oblivion Staff,1625,common,False,"Deceptively hidden as an ordinary staff, it is actually very powerful, much like the Eldritch who originally possessed it.",False,False
+recipe_witch_blade,533,Witch Blade Recipe,250,,False,,False,False
+pers,69,Perseverance,1400,common,False,A gem that grants heart to the bearer.,False,False
+cornucopia,1125,Cornucopia,1200,common,False,A source of spiritual and physical nourishment.,False,False
+satchel,731,,0,common,False,,False,False
+recipe_bracer,72,Bracer Recipe,210,,False,,False,False
+bracer,73,Bracer,505,common,False,The bracer is a common choice to toughen up defenses and increase longevity.,False,False
+recipe_wraith_band,74,Wraith Band Recipe,210,,False,,False,False
+wraith_band,75,Wraith Band,505,common,False,A circlet with faint whispers echoing about it.,False,False
+recipe_null_talisman,76,Null Talisman Recipe,210,,False,,False,False
+null_talisman,77,Null Talisman,505,common,False,A small gemstone attached to several chains.,False,False
+recipe_mekansm,78,Mekansm Recipe,800,,False,,False,False
+recipe_wraith_pact,907,,400,,False,,False,False
+wraith_pact,908,Wraith Pact,3800,rare,60,,100,False
+recipe_buckler,85,Buckler Recipe,250,,False,,False,False
+recipe_ring_of_basilius,87,Ring of Basilius Recipe,250,,False,,False,False
+recipe_holy_locket,268,Holy Locket Recipe,800,,False,,False,False
+recipe_pipe,89,Pipe of Insight Recipe,700,,False,,False,False
+recipe_urn_of_shadows,91,Urn of Shadows Recipe,320,,False,,False,False
+recipe_headdress,93,Headdress Recipe,250,,False,,False,False
+recipe_sheepstick,95,Scythe of Vyse Recipe,600,,False,,False,False
+caster_rapier,1801,,5600,rare,9,,False,False
+recipe_orchid,97,Orchid Malevolence Recipe,450,,False,,False,False
+recipe_bloodthorn,245,Bloodthorn Recipe,450,,False,,False,False
+recipe_cyclone,99,Eul's Scepter Recipe,675,,False,,False,False
+recipe_wind_waker,612,Wind Waker Recipe,1400,,False,,False,False
+recipe_aether_lens,233,Aether Lens Recipe,775,,False,,False,False
+recipe_force_staff,101,Force Staff Recipe,950,,False,,False,False
+recipe_hurricane_pike,262,Hurricane Pike Recipe,350,,False,,False,False
+recipe_dagon,103,Dagon Recipe,1150,,False,,False,False
+recipe_necronomicon,105,Necronomicon Recipe,1250,,False,,False,False
+recipe_ultimate_scepter_2,270,Aghanim's Blessing Recipe,1600,,False,,False,False
+recipe_refresher,109,Refresher Orb Recipe,200,,False,,False,False
+recipe_assault,111,Assault Cuirass Recipe,1300,,False,,False,False
+recipe_heart,113,Heart of Tarrasque Recipe,600,,False,,False,False
+heart,114,Heart of Tarrasque,5200,epic,False,"Preserved heart of an extinct monster, it bolsters the bearer's fortitude.",False,False
+recipe_black_king_bar,115,Black King Bar Recipe,1450,,False,,False,False
+recipe_shivas_guard,118,Shiva's Guard Recipe,2050,,False,,False,False
+recipe_sphere,122,Linken's Sphere Recipe,600,,False,,False,False
+recipe_lotus_orb,221,Lotus Orb Recipe,250,,False,,False,False
+recipe_meteor_hammer,222,Meteor Hammer Recipe,300,,False,,False,False
+recipe_aeon_disk,255,Aeon Disk Recipe,1200,,False,,False,False
+recipe_kaya,258,Kaya Recipe,650,,False,,False,False
+kaya,259,Kaya,2100,epic,False,,False,False
+combo_breaker,276,,0,,False,,False,False
+recipe_spirit_vessel,266,Spirit Vessel Recipe,900,,False,,False,False
+recipe_crimson_guard,243,Crimson Guard Recipe,1050,,False,,False,False
+recipe_blade_mail,126,Blade Mail Recipe,750,,False,,False,False
+soul_booster,129,Soul Booster,3000,epic,False,Regain lost courage.,False,False
+recipe_eternal_shroud,691,Eternal Shroud Recipe,900,,False,,False,False
+recipe_monkey_king_bar,134,Monkey King Bar Recipe,600,,False,,False,False
+butterfly,139,Butterfly,5450,epic,False,"Only the mightiest and most experienced of warriors can wield the Butterfly, but it provides incredible dexterity in combat.",False,False
+recipe_greater_crit,140,Daedalus Recipe,900,,False,,False,False
+recipe_basher,142,Skull Basher Recipe,825,,False,,False,False
+recipe_bfury,144,Battle Fury Recipe,600,,False,,False,False
+recipe_manta,146,Manta Style Recipe,1550,,False,,False,False
+recipe_lesser_crit,148,Crystalys Recipe,200,,False,,False,False
+recipe_dragon_lance,234,Dragon Lance Recipe,450,,False,,False,False
+recipe_armlet,150,Armlet of Mordiggian Recipe,625,,False,,False,False
+recipe_silver_edge,248,Silver Edge Recipe,250,,False,,False,False
+sange_and_yasha,154,Sange and Yasha,4200,artifact,False,"Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",False,False
+kaya_and_sange,273,Kaya and Sange,4200,artifact,False,Two of three known items of unimaginable power that many believe were crafted at the same enchanter's forge.,False,False
+yasha_and_kaya,277,Yasha and Kaya,4200,artifact,False,Yasha and Kaya when paired together share a natural resonance.,False,False
+recipe_mjollnir,157,Mjollnir Recipe,550,,False,,False,False
+recipe_sange,161,Sange Recipe,650,,False,,False,False
+sange,162,Sange,2100,artifact,False,"Sange is an unusually accurate weapon, seeking weak points automatically.",False,False
+recipe_helm_of_the_dominator,163,Helm of the Dominator Recipe,1125,,False,,False,False
+recipe_helm_of_the_overlord,633,Helm of the Overlord Recipe,300,,False,,False,False
+recipe_gungir,1565,Gleipnir Recipe,1100,,False,,False,False
+recipe_yasha,169,Yasha Recipe,650,,False,,False,False
+yasha,170,Yasha,2100,artifact,False,Yasha is regarded as the swiftest weapon ever created.,False,False
+recipe_diffusal_blade,173,Diffusal Blade Recipe,1050,,False,,False,False
+recipe_disperser,1096,Disperser Recipe,800,,False,,False,False
+recipe_ethereal_blade,175,Ethereal Blade Recipe,1600,,False,,False,False
+recipe_soul_ring,177,Soul Ring Recipe,350,,False,,False,False
+recipe_arcane_boots,179,Arcane Boots Recipe,475,,False,,False,False
+recipe_falcon_blade,599,Falcon Blade Recipe,250,,False,,False,False
+falcon_blade,596,Falcon Blade,1125,rare,False,An enchanted blade that long ago raised a hopeless urchin from pauper to king.,False,False
+recipe_ancient_janggo,184,Drum of Endurance Recipe,500,,False,,False,False
+recipe_boots_of_bearing,930,Boots of Bearing Recipe,1700,,False,,False,False
+recipe_solar_crest,227,Solar Crest Recipe,500,,False,,False,False
+recipe_pavise,1127,Pavise Recipe,175,,False,,False,False
+recipe_veil_of_discord,189,Veil of Discord Recipe,300,,False,,False,False
+recipe_revenants_brooch,910,Revenant's Brooch Recipe,600,,False,,False,False
+recipe_devastator,1805,Parasma Recipe,400,,False,,False,False
+recipe_guardian_greaves,230,Guardian Greaves Recipe,1450,,False,,False,False
+recipe_rod_of_atos,205,Rod of Atos Recipe,250,,False,,False,False
+recipe_iron_talon,238,Iron Talon Recipe,125,,False,,False,
+recipe_abyssal_blade,207,Abyssal Blade Recipe,1275,,False,,False,False
+recipe_heavens_halberd,209,Heaven's Halberd Recipe,450,,False,,False,False
+recipe_glimmer_cape,253,Glimmer Cape Recipe,350,,False,,False,False
+river_painter,1021,River Vial: Chrome,0,component,False,,False,False
+river_painter2,1022,River Vial: Dry,0,component,False,,False,False
+river_painter3,1023,River Vial: Slime,0,component,False,,False,False
+river_painter4,1024,River Vial: Oil,0,component,False,,False,False
+river_painter5,1025,River Vial: Electrified,0,component,False,,False,False
+river_painter6,1026,River Vial: Potion,0,component,False,,False,False
+river_painter7,1027,River Vial: Blood,0,component,False,,False,False
+mutation_tombstone,1028,Tombstone,0,consumable,False,,False,False
+super_blink,1029,,0,,15,,False,False
+pocket_tower,1030,Pocket Tower,0,,15,,False,False
+pocket_roshan,1032,Pocket Roshan,1000,rare,60,,False,False
+keen_optic,287,Keen Optic,0,,False,"Stolen from a tinker's shop ages ago, this handy lens has seen service to many owners.",False,False
+philosophers_stone,290,Philosopher's Stone,0,,False,A weightless charm created by an enchanter with a powerful scorn for brute force.,False,False
+greater_mango,295,,0,,False,,False,False
+vampire_fangs,297,Vampire Fangs,0,,False,,False,False
+mechanical_arm,849,,0,,False,,False,False
+horizon,312,,0,,10,,False,False
+broom_handle,355,Broom Handle,0,,False,The surprisingly dangerous creation of an apprentice sorcerer with a strange fondness for brooms.,False,False
+nether_shawl,357,Nether Shawl,0,,False,An otherworldly garment tethered to our plane by unknown means.,False,False
+apex,366,Apex,0,,False,Three orbs of remarkable power bound within a single scepter.,False,False
+recipe_trident,275,Trident Recipe,1,,False,,False,False
+dimensional_doorway,373,,0,,90,,False,False
+faded_broach,375,Faded Broach,0,,False,A life-saving jewel bestowed upon a young queen by a kindly vizier. ,False,False
+paladin_sword,376,Paladin Sword,0,,False,"The sigil blade of the legendary Brother Yhols of Gausra, stripped from its scabbard on the day of his controversial excommunication.",False,False
+titan_sliver,381,Titan Sliver,0,,False,"Though many desire this brilliant shard for its obvious qualities, a school of study exists to determine the true size and purpose of its incomprehensible whole.",False,False
+wizard_glass,566,,0,,15,,False,False
+gloves_of_travel,570,,0,,False,,False,False
+elven_tunic,573,Elven Tunic,0,,False,Even simple items of elven make seem imbued with inexplicable efficacy.,False,False
+venom_gland,575,,0,,False,,False,False
+gladiator_helm,576,,0,,False,,False,False
+ancient_perseverance,578,,0,,False,,False,False
+star_mace,637,,0,,False,,False,False
+oakheart,582,,0,,18,,75,False
+warhammer,674,,0,,20,,False,False
+overflowing_elixir,588,,0,,45,,False,False
+mysterious_hat,589,Fairy's Trinket,0,,8,A small token imbued with the fortune of the fae in recognition of an intriguing display of mortal kindness.,False,False
+assassins_dagger,824,,0,,7,,False,False
+sample_picker,826,,0,,15,,False,False
+icarus_wings,827,,0,,45,,False,False
+light_robes,836,,0,,False,,False,False
+fortitude_ring,839,,0,,30,,100,False
+tome_of_omniscience,948,,0,,False,,False,False
+wand_of_the_brine,940,,0,,35,,90,False
+slime_vial,938,,0,,27,,False,False
+recipe_harpoon,1101,Harpoon Recipe,1000,,False,,False,False
+arcane_scout,968,,0,,40,,False,False
+barricade,969,,0,,45,,False,False
+eye_of_the_vizier,990,Eye of the Vizier,0,,False,The ring of a cunning court mage who imprisoned a cadre of enemies to serve as his personal mana reserve.,False,False
+manacles_of_power,998,,0,,20,,False,False
+bottomless_chalice,1000,,0,,False,,False,False
+wand_of_sanctitude,1017,,0,,40,,False,False
+horizons_equilibrium,2098,,0,,False,,False,False
+blighted_spirit,2099,,0,,False,,False,False
+turtle_shell,2191,,0,,30,,False,False
+light_collector,1167,Light Collector,0,,30,,False,False
+enhancement_vast,1576,Vast,0,,False,,False,False
+enhancement_quickened,1577,Quickened,0,,False,,False,False
+cursed_circlet,1578,Accursed,0,,False,,False,False
+ogre_heart,1579,Restorative,0,,False,,False,False
+neutral_tabi,1580,Elusive,0,,False,,False,False
+enhancement_audacious,1581,Audacious,0,,False,,False,False
+hellbear_totem,1582,,0,,False,,False,False
+enhancement_mystical,1583,Mystical,0,,False,,False,False
+enhancement_alert,1584,Alert,0,,False,,False,False
+enhancement_brawny,1585,Brawny,0,,False,,False,False
+enhancement_tough,1586,Tough,0,,False,,False,False
+enhancement_feverish,1587,Feverish,0,,False,,False,False
+enhancement_fleetfooted,1588,Fleetfooted,0,,False,,False,False
+enhancement_crude,1589,Crude,0,,False,,False,False
+enhancement_boundless,1590,Boundless,0,,False,,False,False
+enhancement_wise,1591,Wise,0,,False,,False,False
+enhancement_timeless,1592,Timeless,0,,False,,False,False
+enhancement_greedy,1593,Greedy,0,,False,,False,False
+enhancement_vampiric,1594,Vampiric,0,,False,,False,False
+enhancement_keen_eyed,1595,Keen-eyed,0,,False,,False,False
+enhancement_evolved,1596,Evolved,0,,False,,False,False
+enhancement_titanic,1597,Titanic,0,,False,,False,False
+miniboss_minion_summoner,1610,,0,artifact,40,,False,False
+enhancement_fierce,1647,Fierce,0,,False,,False,False
+enhancement_dominant,1648,Dominant,0,,False,,False,False
+enhancement_restorative,1649,Restorative,0,,False,,False,False
+enhancement_thick,1650,Thick,0,,False,,False,False
+enhancement_curious,1651,Unleashed,0,,False,,False,False
+diffusal_blade_2,196,Diffusal Blade,3850,artifact,4,An enchanted blade that allows the user to cut straight into the enemy's soul.,False,
